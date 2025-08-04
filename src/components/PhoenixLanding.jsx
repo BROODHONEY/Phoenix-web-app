@@ -103,7 +103,7 @@ const PhoenixLanding = () => {
         <div className="text-center z-10 max-w-4xl mx-auto px-6">
           <div className="mb-8">
             <div className="w-60 h-60 mx-auto mb-6 bg-gradient-to-br rounded-full flex items-center justify-center">
-              <img src="/PHOENIX ICON.png" alt="Phoenix Logo" className="w-60 h-60" />
+              <img src="/PHOENIX ICON.png" alt="Phoenix Logo" className="w-55 h-55" />
             </div>
           </div>
           <h1 className="text-6xl md:text-8xl font-extrabold mb-6 bg-gradient-to-r from-red-500 via-orange-400 to-yellow-400 bg-clip-text text-transparent">
