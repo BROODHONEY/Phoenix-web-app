@@ -1,6 +1,13 @@
 @import "tailwindcss";
 
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
 #root {
   padding: 0rem;
   margin: 0rem;
+  background-color: black;
 }
